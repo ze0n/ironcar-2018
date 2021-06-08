@@ -78,7 +78,7 @@ pandocfilters==1.4.2
 parso==0.7.0
 pathspec==0.8.0
 pickleshare==0.7.5
-Pillow==7.1.2
+Pillow==8.2.0
 pip-review==1.1.0
 ply==3.11
 prometheus-client==0.7.1
